@@ -1,5 +1,5 @@
 # Maven-Hotel-Booking_Excel-Project-2
-## This project consists of Hotel booking data, from July 2015 to August 2017 provided in the course. I created a one-time explanatory dashboard that is meant to let the end users understand what is happening, why it's happening, and what actions they can take accordingly.
+## This project consists of Hotel booking data, from July 2015 to August 2017 provided in the course. I created a one-time explanatory dashboard that is meant to let the stakeholders understand what is happening, why it's happening, and what actions they can take accordingly. 
 
 ### Excel concepts covered are:- 
 * Pivot Charts
